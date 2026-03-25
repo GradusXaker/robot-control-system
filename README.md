@@ -1,11 +1,24 @@
-# Robot Control System
+<div align="center">
+  <h1>Robot Control System</h1>
+  <p><strong>Демо распределенной робототехники.</strong> `Akka Cluster`, `Java`, `Spring Boot` и `Docker` в одном учебном примере.</p>
 
-Демонстрационная система управления роботами на `Akka Cluster`, `Java`, `Spring Boot` и `Docker`.
+  <p>
+    <img src="https://img.shields.io/badge/Java-Akka-111827?style=for-the-badge&logo=openjdk&logoColor=22C55E" alt="Java Akka" />
+    <img src="https://img.shields.io/badge/Spring_Boot-Docker-111827?style=for-the-badge&logo=springboot&logoColor=22C55E" alt="Spring Boot Docker" />
+    <img src="https://img.shields.io/badge/distributed-systems-111827?style=for-the-badge&logoColor=22C55E" alt="Distributed systems" />
+    <img src="https://img.shields.io/badge/demo-conference-talk-22C55E?style=for-the-badge&labelColor=0B1220" alt="Conference demo" />
+  </p>
+</div>
 
-Проект был подготовлен как пример для доклада про actor-based concurrency в современном Java-enterprise.
+```text
+> stack: akka cluster + spring boot + docker
+> scenario: actor-based concurrency demo
+> target: study distributed enterprise patterns
+```
 
-Слайды доклада:
-- https://www.slideshare.net/AlexanderLukyanchiko/actorbased-concurrency-in-a-modern-java-enterprise
+## обзор
+
+Репозиторий показывает, как собрать демонстрационную систему управления роботами на акторной модели и контейнерной инфраструктуре, не распыляя проект по нескольким сервисам и конфигурациям.
 
 ## Что показывает проект
 
