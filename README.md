@@ -36,3 +36,12 @@
 - как демонстрация интеграции Java-стека с контейнерным окружением.
 
 <img width="880" alt="Robot Control System screenshot" src="https://cloud.githubusercontent.com/assets/6069066/26027846/06bff546-381e-11e7-89e3-19382e3a15b2.png">
+
+## контакты
+
+<p>
+  <a href="https://github.com/GradusXaker"><img src="https://img.shields.io/badge/GitHub-GradusXaker-111827?style=flat-square&logo=github&logoColor=22C55E" alt="GitHub" /></a>
+  <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/VK-gradus__xaker-111827?style=flat-square&logo=vk&logoColor=22C55E" alt="VK" /></a>
+  <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/email-write-111827?style=flat-square&logo=gmail&logoColor=22C55E" alt="Email" /></a>
+</p>
+
