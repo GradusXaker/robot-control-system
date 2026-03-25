@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./banner.svg" alt="robot-control-system banner" width="100%" />
+
   <h1>Robot Control System</h1>
   <p><strong>Демо распределенной робототехники.</strong> `Akka Cluster`, `Java`, `Spring Boot` и `Docker` в одном учебном примере.</p>
 
